@@ -1,0 +1,10 @@
+---
+layout: post
+title: "힙(Heap)에 대한 고찰"
+subtitle: "자료구조 중 힙에 대하여..."
+date: 2020-01-14 16:18:13 -0500
+background: '/img/posts/06.jpg'
+---
+
+<h3>힙(Heap)</h3>
+<p>일단, 힙의 정의 부터 알아보자</p>
